@@ -6,5 +6,5 @@
 	}
 	
 	dependencies {
-	        implementation 'com.github.vanthien113:Location-Manger:Tag'
+	        implementation 'com.github.vanthien113:location-manger:Tag'
 	}
